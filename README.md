@@ -1,5 +1,14 @@
-# 💫 About Me:
-# 👋 Hi, I’m Muhammad Hamza<br><br>- 👀 I’m interested in **Own Business**, **Artificial Intelligence**, **Generative AI**, and **Web3 Technologies**.<br>- 🌱 I’m currently learning **AGENTIC A.I** and exploring the latest trends in **AI** and **Cloud Computing**.<br>- 💞️ I’m looking to collaborate on **AI Projects**, **Web Development** teams, and any innovative **Tech Startups**.<br>- ⚡ Fun fact: **I’m passionate about solving real-world problems using technology, and I love learning new programming languages and frameworks!**
+💫 **About Me**
+
+👋 Hi, I'm **Muhammad Hamza**!
+
+👀 Interested in: Own Business • Artificial Intelligence • Generative AI • Web3 Technologies  
+
+🌱 Currently learning: Agentic AI & latest trends in AI + Cloud Computing  
+
+💞️ Looking to collaborate on: AI Projects • Web Development • Innovative Tech Startups  
+
+⚡ Fun fact: Passionate about solving real-world problems with tech — love exploring new languages & frameworks!
 
 
 ## 🌐 Socials:
