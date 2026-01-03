@@ -1,8 +1,9 @@
 💫 **About Me**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi, I'm **Muhammad Hamza**!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Hi, I'm **Muhammad Hamza**!
 
-👀 Interested in: Own Business • Artificial Intelligence • Generative AI • Web3 Technologies  
+👀 Interested in: Own Business • Artificial Intelligence • Generative AI • Web3 Technologies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHamza524727&show_icons=true&theme=radical)
 
 🌱 Currently learning: Agentic AI & latest trends in AI + Cloud Computing  
 
