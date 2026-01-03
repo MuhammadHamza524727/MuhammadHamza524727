@@ -1,6 +1,6 @@
 💫 **About Me**
 
-👋 Hi, I'm **Muhammad Hamza**!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi, I'm **Muhammad Hamza**!
 
 👀 Interested in: Own Business • Artificial Intelligence • Generative AI • Web3 Technologies  
 
