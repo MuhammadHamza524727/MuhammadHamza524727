@@ -1,9 +1,10 @@
 💫 **About Me**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Hi, I'm **Muhammad Hamza**!
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50"> Hi, I'm **Muhammad Hamza**!
 
-👀 Interested in: Own Business • Artificial Intelligence • Generative AI • Web3 Technologies
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHamza524727&show_icons=true&theme=radical)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Interested in: Own Business • Artificial Intelligence • Generative AI • Web3 Technologies
+
+<img src="https://media.giphy.com/media/l2JdZBIj5BTERCdsI/giphy.gif" width="40">
 
 🌱 Currently learning: Agentic AI & latest trends in AI + Cloud Computing  
 
