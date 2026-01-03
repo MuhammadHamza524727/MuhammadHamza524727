@@ -1,4 +1,5 @@
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50"> Hi, I'm **Muhammad Hamza**!
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50"> Hi, 
+I'm **Muhammad Hamza**!
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Interested in: Own Business • Artificial Intelligence • Generative AI • Web3 Technologies
 
@@ -7,23 +8,6 @@
 💞️ Looking to collaborate on: AI Projects • Web Development • Innovative Tech Startups  
 
 ⚡ Fun fact: Passionate about solving real-world problems with tech — love exploring new languages & frameworks!
-
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-Animated SVG Hand Emoji (Hover pe wave karta hai, no GIF lag – super smooth aur lightweight)
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50">
-
-Cute Hello Banner Wave (Full animated "Hello" text with wave – bohat attractive)
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="600">
-(Yeh thora bara hai, header ke liye perfect)
-Friendly Handshake Wave (Do haath wave – collaborative vibe deta hai)
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="40">
-Cute Emoji Style Wave (Yellow emoji jaise, bohat friendly aur fun)
-<img src="https://i.pinimg.com/originals/2e/89/02/2e89029c707aa62b17e76c0422f0de0e.gif" width="50">
-Quby Chan Cute Wave (Adorable cartoon character wave – unique aur heart-winning)
-<img src="https://i.pinimg.com/originals/5d/6b/5e/5d6b5e45c6f14705f5a2fb03a7178c4a.gif" width="60">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DFD4j7km) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1GmnMmabFS/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmzarj77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hamza-full-stack-developer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@muhammadhamza524727) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/LogBudget8726/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26595777) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hmzi524727) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhamza524727@gmail.com) 
